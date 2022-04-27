@@ -1,0 +1,15 @@
+Pour lancer notre application, il faut compiler le "Starter"
+
+======================= Authentification =======================================
+Pour Sign In:
+
+    En tant que admin:
+        email: admin@gmail.com
+        password: admin
+
+     En tant que user:
+        email: user@gmail.com
+        password: user
+
+=============== Si Vous avez des questions n'hesitez pas a nous contacter======= 
+
